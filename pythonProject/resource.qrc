@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="bed_right">
+    <file>bed_right.png</file>
+  </qresource>
+  <qresource prefix="bed_left">
+    <file>bed_left.png</file>
+  </qresource>
+  <qresource prefix="favicon">
+    <file>favicon.png</file>
+  </qresource>
+</RCC>
