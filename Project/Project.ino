@@ -79,7 +79,7 @@ void loop() {
     lcd.print("%");
     BTSerial.println(display_per); 
 
-    if(display_per < 20){
+    if(display_per < 10){
       lcd.setCursor(13,1);
       lcd.print("LOW");
     }
